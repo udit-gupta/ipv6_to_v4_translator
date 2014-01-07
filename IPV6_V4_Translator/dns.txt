@@ -1,0 +1,14 @@
+Using DNS Gatewat
+
+Time 3.11 sec
+
+
+15:00:42.619324 IP6 2001:df0:92:0:215:17ff:feea:f40c.49019 > 2001:df0:92:0:208:a1ff:fe41:a30a.domain:  46339+ AAAA? www.google.com. (32)
+15:00:45.716229 IP6 2001:df0:92:0:208:a1ff:fe41:a30a.domain > 2001:df0:92:0:215:17ff:feea:f40c.49019:  46339 2/4/0[|domain]
+
+Queiry Direct to DNS
+
+time 0.03 sec
+
+15:06:05.732864 IP6 2001:df0:92:0:215:17ff:feea:f40c.44062 > 2001:df0:92:0:21e:8cff:fec7:437f.domain:  45122+ AAAA? www.google.com. (32)
+15:06:05.733168 IP6 2001:df0:92:0:21e:8cff:fec7:437f.domain > 2001:df0:92:0:215:17ff:feea:f40c.44062:  45122 1/1/0 (102)
