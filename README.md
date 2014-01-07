@@ -1,11 +1,13 @@
+IPv6_v4_Translator
+=============
 
 Description:
     
-    IPv6 to IPv4 translator provides the communication mechanism from IPv6 only to IPv4 only networks and vice versa.
-    For Details, please refer below.
+    IPv6 to IPv4 translator provides the communication mechanism from IPv6 only to IPv4 only
+    networks and vice versa. For Details, please refer below.
 
 
-Directroy Structur/Flow:
+Directroy Structure/Flow:
     
     trans/trans   -   This folder contains development related files for translator
         dns.c
